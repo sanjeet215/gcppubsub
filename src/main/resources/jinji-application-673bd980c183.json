@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jinji-application",
+  "private_key_id": "673bd980c18373d5c45181478c0138d2781802b9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC1WjUv4zVSQT69\nzMU1RydrvFNLxCPy4+h6uGHE2+GWo6rkPRonAUlDSOaUNyj3HhAqlhnynDyn/U6F\n8PMUtNJwxaT0p6XVsPaYaxc0/4ZqxrXtZijWUTJWE5yFJSUqpPk21UNM86CZ34y8\nN4rjl7pXIhSr6ekgDXQV+2IRj1FDg4bNefqcCgY+AB3skAXywNm5okkNUvZWpbn8\npl2u+Who06BWHiQjTiq2TVb8xuFescsBpIw9o2hI3fGDw+sp8nPICHQVY67UTMkN\nXKzAoiPyiX2IzDEQGaEVjzLC5o6QZD3F1RoREPmzhZYcSW9YbIMOzJED/4UJSsZn\nNeyFOnnDAgMBAAECggEAULhKtTpyCN8uoIeM/cZihwMnpjEy+RE1cK4yIk/mjMjj\nrzx9MABUDkVcEHuu2bOBaZsvCHw/SVynv1l8sOo9QuHOJvGaEE/4quX7yeS0fUFe\nR8ExixdQCt0mzWK3tNACd0QcdRt5kBPfTgWA5gWqdM8gGVb/o3spgQFH6N38Q0p/\ne23NT9tDYi8b8mZT9C+kkEubOsSRsabg5T4suf13L43mK349VTv9z4AAmAi/i+mE\n1+VbswV5b/BiGxqvOUlwmx3tKK2u2HaV80QbHxjQ8EbT4iDy74hhIspBsMyhYPq+\nt63A1tnWEGM3v4d92n0gUKMgv18LJTfve+pB7VejhQKBgQDZepBfn66q5McpY0HQ\nA1w1HkQ7JPH06U7e3eFTBxW5JSSWDXoeyrLF874SMLioOqCQQbAFf7pq0nO5g2t9\nBzxMBwkOCDGwFcgqv8L6z0jlj50YayYGA8a0lMXfiq/bnBdZ85akyYu+4mboboXe\nqqS84/jDddD52f2WMPCNt2o/bQKBgQDVeYP+sVoqY0Mkm1Q4GSlfRdJrWecKphNO\nhfzljKtCAw1fDm4sRbJAEVJHeBRaPzTblo+7tvrd/PzNwCRivp607+ewGRjP6yu+\no7o5anrQ4PmZ+DdyAI6TwAA11StfP3lxozWV31tOvsRLF23bALsvyLU5WdN6v9rB\npQWXmw1v7wKBgGeXQwfZdwi9+sQTHHkp8JT4usV1Xq8rJr9v7vFukYFkWN4Ew2PB\nZ5B0/teJT5wKeQrdzyt/YNubLTZzjBK9DJKmU0DU1F4ssfDy8LwpWm7Gjqzf9Peu\nesrvhqVpWUUBP/o/1kTeH+unyh7y7l9W5yt2Z7sq9oTcujb9TsgiUsCtAoGBAJbc\n0H5vAcSQ78NwDl2y0n0lD+aT22a4JU7J/AaRmfoFxC5YOV4KR0VluFsPrnp0zrsc\ntSk40COPhW02i8BI7En8fSUDJ3jQvtJ0TMgEyxTQ2TSJqU1kvV4HQ17H7mXaqs23\nRMhM1+9Xe8uBnD44TxEe64vDQmQuL7/ICqKwjhd7AoGAOz3Nxx3IWbH0L9eH/mS1\n6sPKknYfUUxVOm/W0Bp0aslhhRAr/5EASCNAsly1Pt3zH+ZXyqeBtRvrUug3atmm\nWKP2jZp1Vf5y0fJgQafRh/F41nFfgPVvBi4fLhQg+iDboGdVBn3Ocz5FYNcOkfh0\nkXPzydX+D+msG86HqxIPIiQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pubsubservice@jinji-application.iam.gserviceaccount.com",
+  "client_id": "105863121622829316296",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pubsubservice%40jinji-application.iam.gserviceaccount.com"
+}
